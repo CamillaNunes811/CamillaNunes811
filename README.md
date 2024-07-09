@@ -7,7 +7,7 @@
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 Python, Java, VisualBasic , C , C# , Asp.net, HTML, etc...
+- 👨‍💻 Python, Java, VisualBasic , C , C# , Asp.net, HTML.
 - 💽 MySQL, SQL, Oracle
 + a lot more :D
 
